@@ -1,0 +1,23 @@
+/* Empty. Add your own CSS if you like */
+.home__background{
+  background: url('../img/background/background-home.jpg') no-repeat center;
+  background-size: contain;
+  /*-webkit-filter: grayscale(100%) blur(5px);*/
+}
+.home__logo{
+  text-align: center;
+  position: relative;
+  top: 15%;
+}
+.home__logo--icare{
+    width: 70%;
+}
+.home__button{
+  position: absolute;
+  bottom: 25%;
+  text-align: center;
+  width: 100%;
+}
+.home__button--getstart{
+  padding: 0 25%;
+}
