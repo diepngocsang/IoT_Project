@@ -1,7 +1,7 @@
 /* Empty. Add your own CSS if you like */
 .home__background{
   background: url('../img/background/background-home.jpg') no-repeat center;
-  background-size: contain;
+  background-size: cover;
   /*-webkit-filter: grayscale(100%) blur(5px);*/
 }
 .home__logo{
